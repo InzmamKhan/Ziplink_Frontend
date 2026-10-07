@@ -24,7 +24,7 @@ export default function HomePage() {
       <main style={{ flex: 1, maxWidth: '800px', width: '100%', margin: '0 auto', padding: '0 24px' }}>
         <section style={{ marginBottom: '40px' }}>
           <h1 style={{ fontSize: '2.5rem', fontWeight: '900', letterSpacing: '-0.04em', lineHeight: '1.1', marginBottom: '12px' }}>
-            MINIMALIST LINK MANAGEMENT
+            Rate Limited URL Shortener
           </h1>
           <p style={{ color: 'var(--text-muted)', fontSize: '1rem', maxWidth: '540px' }}>
             Fast Base62 link shortening powered by Upstash Redis and Supabase. Clean, reliable, and rate-limited.
